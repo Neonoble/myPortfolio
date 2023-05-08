@@ -23,7 +23,7 @@ const Sidebar = () => {
             <button
                onClick={changeTheme}
                title='Theme'
-               className='hidden w-1 px-4 py-4 text-white rounded-full cursor-pointer bg-gradient-to-r from-green-400 to-blue-400 focus:outline-none hover:scale-105'>
+               className='w-1 px-4 py-4 text-white rounded-full cursor-pointer bg-gradient-to-r from-green-400 to-blue-400 focus:outline-none hover:scale-105'>
                {/* //TODO remove bg black */}                             
             </button>
          </section>         
