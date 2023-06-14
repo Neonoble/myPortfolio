@@ -150,7 +150,7 @@ export const projects: IProject[] = [
 
   {
     name: "Weather PWA",
-    image_path: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.news24.com%2Fnews24%2Fsouthafrica%2Fnews%2Fthursdays-weather-wet-and-windy-as-cold-front-hits-western-cape-20230524&psig=AOvVaw1B6avR5t-wuq-IGp1nwh9p&ust=1686834739690000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDp8J7rwv8CFQAAAAAdAAAAABADhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.news24.com%2Fnews24%2Fsouthafrica%2Fnews%2Fthursdays-weather-wet-and-windy-as-cold-front-hits-western-cape-20230524&psig=AOvVaw1B6avR5t-wuq-IGp1nwh9p&ust=1686834739690000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDp8J7rwv8CFQAAAAAdAAAAABAD",
+    image_path: "https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/styles/featured_media_detail/public/23908803715_404c5de323_z.jpg?o1aYzcGOVRCiliGBBPA_iiHiUehTZ39g&itok=U3M7G6EP",
     deployed_url: "https://github.com/Neonoble/Weather_PWA",
     github_url: "https://github.com/Neonoble/Weather_PWA",
     category: ["next", "react"],
