@@ -15,7 +15,7 @@ const index = () => {
      I am a recent intern looking for an opportunity to fully display his only increasing web development skills.
      I am a highly poised and dedicated individual with a strongeducation in front-end development.
      Motivated developer with only a years worthof progressive experience. Energetic self-starter and team player.
-     Navigates high-stress situations and achieves goals on time and under budget.
+     Navigates high-stress situations and achieves goals on time and under budget.  
     </h6>
     <div
       className="flex-grow p-4 mt-5 bg-gray-400 dark:bg-dark-100 "
@@ -42,3 +42,4 @@ const index = () => {
 }
 
 export default index
+ 
