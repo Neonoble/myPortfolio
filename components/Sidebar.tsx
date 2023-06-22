@@ -15,7 +15,7 @@ const Sidebar = () => {
         <div className="flex">
           <img
             src='/portfolio/public/avatar.jpeg'
-            alt='avatar'
+            alt='avata'
             className="w-32 h-32 mx-auto border rounded-full"            
          />
          <section>
