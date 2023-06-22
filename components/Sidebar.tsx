@@ -14,7 +14,7 @@ const Sidebar = () => {
       <>
         <div className="flex">
           <img
-            src='https://media.licdn.com/dms/image/C4D03AQGADUapvQmuMg/profile-displayphoto-shrink_200_200/0/1662745984580?e=1687392000&v=beta&t=t7BeCzATTwakPIJ4NYzAUw45O81Z3E1HqNQTwwBlzeo'
+            src='/portfolio/public/avatar.jpeg'
             alt='avatar'
             className="w-32 h-32 mx-auto border rounded-full"            
          />
