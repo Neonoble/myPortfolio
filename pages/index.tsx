@@ -12,10 +12,8 @@ const index = () => {
   return (
     <div className="flex flex-col flex-grow px-6 pt-1 ">
     <h6 className="my-3 text-base font-medium">
-        Recent intern with one year of progressive experience. 
-        Proven ability to work independently and as part of a team. 
-        I possess strong technical skills and a passionfor web development.
-        Seeking a challenging position where I can use my skills and experience to make a positive impact.
+      Bringing ideas to life through web development is what excites me most. My previous roles have helped hone my skills in building innovative landing pages, websites, mobile applications and automations that drive results. I excel at
+both solo execution and collaborative teamwork, bringing strong technical expertise and a creative mindset to the table. I'm always eager to learn and contribute to impactful projects, pushing the boundaries of what web.
     </h6>
     <div
       className="flex-grow p-4 mt-5 bg-gray-400 dark:bg-dark-100 "
