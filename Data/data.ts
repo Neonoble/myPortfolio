@@ -34,7 +34,7 @@ export const services: IService[] = [
      Icon: AiOutlineAntDesign,
      title: "Databases",
      about:
-       "Comfortable working with <b>Firebase</b> and <b>MongoDB</b>",
+       "Comfortable working with <b>Firebase</b>, <b>MongoDB</b> and <b>ActiveCampaign</b>",
    },
    {
      Icon: RiComputerLine,
