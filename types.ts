@@ -10,7 +10,7 @@ export interface IService {
 export interface ISkill {
   Icon: IconType;
   name: string;
-  level: string;
+  // level: string;
 }
 
 export interface IProject {
