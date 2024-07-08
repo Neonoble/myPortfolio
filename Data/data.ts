@@ -47,7 +47,7 @@ export const services: IService[] = [
 export const languages: ISkill[] = [
   {
     Icon: BsCircleFill,
-    name: "Next.js",
+    name: "HTML/CSS",
     level: "45",
   },
   {
@@ -57,22 +57,27 @@ export const languages: ISkill[] = [
   },
   {
     Icon: BsCircleFill,
-    name: "Node.js",
+    name: "TypeScript",
     level: "60",
   },
   {
     Icon: BsCircleFill,
-    name: "React",
+    name: "React.js",
     level: "70",
   },
   {
     Icon: BsCircleFill,
-    name: "MongoDB",
+    name: "Next.js",
     level: "40",
   },
   {
     Icon: BsCircleFill,
-    name: "Bootstrap",
+    name: "Node.js",
+    level: "80",
+  },
+   {
+    Icon: BsCircleFill,
+    name: "Express.js",
     level: "80",
   },
 ];
@@ -83,20 +88,20 @@ export const tools: ISkill[] = [
     name: "Figma",
     level: "35",
   },
-  {
+   {
     Icon: BsCircleFill,
-    name: "BlackBox",
-    level: "45",
+    name: "ActiveCampaign",
+    level: "80",
   },
   {
     Icon: BsCircleFill,
-    name: "coming soon",
-    level: "60",
+    name: "Word Press",
+    level: "80",
   },
-  {
+   {
     Icon: BsCircleFill,
-    name: "ChatGPT",
-    level: "45",
+    name: "Git & GitHub",
+    level: "80",
   },
 ];
 
