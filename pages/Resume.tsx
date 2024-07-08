@@ -9,13 +9,10 @@ const Resume = () => {
       {/* //! Education & Experience */}
       <div className="grid gap-6 md:grid-cols-2">
         <div>
-          <h5 className="my-3 text-2xl font-bold">Education</h5>
+          <h5 className="my-3 text-2xl font-bold">Certificates</h5>
           <div className="">
-            <h5 className="my-2 text-xl font-bold">
-             Self taught developer
-            </h5>
             <p className="font-semibold">Attended Oaklands high school (2017-2021)</p>
-            <p className="my-3">
+            <p className="my-2">
               I am currently working as a Web developer intern at Younglings Africa.
             </p>
           </div>
@@ -36,7 +33,7 @@ const Resume = () => {
       {/*Languages & Tools */}
       <div className="grid gap-9 md:grid-cols-2">
         <div>
-          <h5 className="my-3 text-2xl font-bold">Language & Framework</h5>
+          <h5 className="my-3 text-2xl font-bold">Technical Skills</h5>
           <div className="my-2">
             {languages.map((language, i) => (
               <Bar value={language} key={i} />
@@ -45,7 +42,7 @@ const Resume = () => {
         </div>
 
         <div>
-          <h5 className="my-3 text-2xl font-bold">Tools & Softwares</h5>
+          <h5 className="my-3 text-2xl font-bold">Professional Skills</h5>
           <div className="my-2">
             {tools.map((tool, i) => (
               <Bar value={tool} key={i} />
