@@ -25,7 +25,7 @@ const Resume = () => {
           <h5 className="my-3 text-2xl font-bold">Certificates</h5>
           <div className="">
             <p className="font-semibold">
-               <a style={{textDecoration:'none'} href='https://www.freecodecamp.org/certification/fcce91ce728-95f0-44c0-815f-2e0ff652952e/javascript-algorithms-and-data-structures'>
+               <a style={{textDecoration:'none'}} href='https://www.freecodecamp.org/certification/fcce91ce728-95f0-44c0-815f-2e0ff652952e/javascript-algorithms-and-data-structures'>
                   JavaScript Algorithims and Date Structures
               </a>
             </p>
@@ -36,7 +36,7 @@ const Resume = () => {
           <h5 className="my-3 text-2xl font-bold">Certificates</h5>
           <div className="">
             <p className="font-semibold">
-               <a style={{textDecoration:'none'} href='https://ix-certificate.tiiny.site/'>
+               <a style={{textDecoration:'none'}} href='https://ix-certificate.tiiny.site/'>
                   Ixperience Internship
               </a>
             </p>
@@ -47,7 +47,7 @@ const Resume = () => {
           <h5 className="my-3 text-2xl font-bold">Certificates</h5>
           <div className="">
             <p className="font-semibold">
-               <a style={{textDecoration:'none'} href='https://neomunhenga-hubbardcert.tiiny.site/'>
+               <a style={{textDecoration:'none'}} href='https://neomunhenga-hubbardcert.tiiny.site/'>
                   Hubbard Communication Course
               </a>
             </p>
