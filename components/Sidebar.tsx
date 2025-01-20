@@ -37,8 +37,8 @@ const Sidebar = () => {
          </p>
          {/* Resume */}
          <a
-            href='NeoMunhenga-Resume'
-            download='NeoMunhenga-Resume'
+            href='Resume-NeoMunhenga.pdf'
+            download='Resume-NeoMunhenga.pdf'
             className='flex items-center justify-center px-2 py-1 my-2 bg-gray-200 rounded-full cursor-pointer dark:bg-dark-500 '>
             <GiTie />
             <span>Download Resume</span>
