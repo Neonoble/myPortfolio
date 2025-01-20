@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Bar from "../components/Bar";
+// import Bar from "../components/Bar";
 import { languages, tools } from "../Data/data";
 
 const Resume = () => {
