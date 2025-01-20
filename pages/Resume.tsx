@@ -14,7 +14,7 @@ const Resume = () => {
           <h5 className="my-3 text-2xl font-bold">Certificates</h5>
           <div className="">
             <p className="font-semibold">
-               <a style={{textDecoration:'none'} href='https://www.freecodecamp.org/certification/fcce91ce728-95f0-44c0-815f-2e0ff652952e/responsive-web-design'>
+               <a style={{textDecoration:'none'}} href='https://www.freecodecamp.org/certification/fcce91ce728-95f0-44c0-815f-2e0ff652952e/responsive-web-design'>
                   Responsive Web Design
               </a>
             </p>
